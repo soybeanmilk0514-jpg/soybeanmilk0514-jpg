@@ -4,6 +4,17 @@
 
 숭실대학교 신소재공학과에서 공부하며 차세대반도체공학을 복수전공하고 있습니다. 재료와 공정 조건이 소자 특성에 미치는 영향을 TCAD로 분석하고, 계측·패키징·제조 현장으로 관심을 넓혀가고 있습니다.
 
+## Ongoing Research
+
+### [MicroLED Sidewall Carrier Confinement](https://github.com/soybeanmilk0514-jpg/TCAD-MicroLED-Sidewall-Carrier-Confinement)
+
+**2026.09–현재 · 이택규·주수빈 공동 프로젝트**  
+학교 **CMP 프로그램**과 **공학및 지식실무 교과목**에서 동시 진행하는 InGaN/GaN MicroLED TCAD 연구입니다.
+
+저는 공통 기준 모델 검토와 **국부 AlGaN 측면 장벽(Project B)** 설계를 담당합니다. Carbon 고저항 edge(Project A)와 캐리어 구속 메커니즘을 비교하며, 현재는 공통 baseline 검증 단계입니다. IQE 개선과 A/B 성능 비교는 검증 예정입니다.
+
+[프로젝트·코드·진행 기록](https://github.com/soybeanmilk0514-jpg/TCAD-MicroLED-Sidewall-Carrier-Confinement) · [내 작업 기록](https://github.com/soybeanmilk0514-jpg/TCAD-MicroLED-Sidewall-Carrier-Confinement/blob/main/CMP/members/JuSubin/TIMELINE.md) · [공동 연구 원본](https://github.com/TaekGyu0801/GGYU)
+
 ## Skills & Focus
 
 - **Simulation:** Synopsys Sentaurus TCAD — SProcess, SDevice, SVisual
@@ -15,6 +26,7 @@
 
 | Project | Focus |
 |---|---|
+| [MicroLED Sidewall Carrier Confinement](https://github.com/soybeanmilk0514-jpg/TCAD-MicroLED-Sidewall-Carrier-Confinement) | **진행 중** · 공통 baseline 검증 및 국부 AlGaN 측면 장벽 설계 |
 | [PMOS Process Optimization](https://github.com/soybeanmilk0514-jpg/TCAD-PMOS-Process-Optimization) | 이온주입·열처리 조건에 따른 구동 전류, 누설 전류, SS 비교 |
 | [NMOS HKMG & Halo Optimization](https://github.com/soybeanmilk0514-jpg/TCAD-NMOS-HKMG-Halo-Optimization) | 60 nm NMOS의 HfO₂/TiN gate stack과 halo 조건 분석 |
 | [FinFET SiGe Stress Engineering](https://github.com/soybeanmilk0514-jpg/TCAD-FinFET-SiGe-Stress-Engineering) | Ge 조성·S/D recess에 따른 응력 전달과 전기적 특성 분석 |
@@ -28,6 +40,7 @@ TCAD 수행 결과, 문헌 기반 기술 분석, 현장 학습 기록을 구분�
 
 ## Experience
 
+- **2026.09–현재** · CMP 프로그램 · 공학및 지식실무 공동 프로젝트 — MicroLED Sidewall TCAD
 - **2026.07** · 반도체공학회 하계종합학술대회 공동 발표 — High-k 박막 SE–X-ray Hybrid Metrology
 - **2026.06–07** · 제5회 CO-WEEK ACADEMY 참여 및 반도체산업이해 연계 학습
 - **2026.08** · AI Summit Seoul & EXPO 현장 탐방
