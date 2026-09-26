@@ -2,6 +2,8 @@
 
 **Materials Science · Semiconductor Processes · Device Simulation**
 
+[🌐 Portfolio Web](https://soybeanmilk0514-jpg.github.io/soybeanmilk0514-jpg/) · [📄 Main HTML](./index.html)
+
 숭실대학교 신소재공학과에서 공부하며 차세대반도체공학을 복수전공하고 있습니다. 재료와 공정 조건이 소자 특성에 미치는 영향을 TCAD로 분석하고, 계측·패키징·제조 현장으로 관심을 넓혀가고 있습니다.
 
 ## Ongoing Research
