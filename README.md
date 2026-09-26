@@ -13,7 +13,7 @@
 
 저는 공통 기준 모델 검토와 **국부 AlGaN 측면 장벽(Project B)** 설계를 담당합니다. Carbon 고저항 edge(Project A)와 캐리어 구속 메커니즘을 비교하며, 현재는 공통 baseline 검증 단계입니다. IQE 개선과 A/B 성능 비교는 검증 예정입니다.
 
-[프로젝트·코드·진행 기록](https://github.com/soybeanmilk0514-jpg/TCAD-MicroLED-Sidewall-Carrier-Confinement) · [내 작업 기록](https://github.com/soybeanmilk0514-jpg/TCAD-MicroLED-Sidewall-Carrier-Confinement/blob/main/CMP/members/JuSubin/TIMELINE.md) · [공동 연구 원본](https://github.com/TaekGyu0801/GGYU)
+[프로젝트·코드·진행 기록](https://github.com/soybeanmilk0514-jpg/TCAD-MicroLED-Sidewall-Carrier-Confinement) · [내 작업 기록](https://github.com/soybeanmilk0514-jpg/TCAD-MicroLED-Sidewall-Carrier-Confinement/blob/main/CMP/members/JuSubin/TIMELINE.md) · [연구 대시보드](https://soybeanmilk0514-jpg.github.io/TCAD-MicroLED-Sidewall-Carrier-Confinement/) · [공동 연구 원본](https://github.com/TaekGyu0801/GGYU)
 
 ## Skills & Focus
 
