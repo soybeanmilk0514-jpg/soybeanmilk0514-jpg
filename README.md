@@ -1,4 +1,4 @@
-# 주수빈 | Subin Joo
+# 주수빈 | Subeen Joo
 
 **Materials Science · Semiconductor Processes · Device Simulation**
 
